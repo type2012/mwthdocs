@@ -4,33 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'เข้าใจระบบเกม',
+    Svg: require().default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        อธิบายวิธีเล่น, ระบบ Battle Pass, วิธีรับรางวัล, และเทคนิคพื้นฐาน
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'แก้ไขปัญหาเบื้องต้น',
+    Svg: require().default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        ให้คำแนะนำเกี่ยวกับปัญหาที่พบบ่อย เช่น การซื้อไอเทมไม่เข้า, การกู้คืนบัญชี, หรือการเชื่อมต่อเกม
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'กฎและข้อกำหนด',
+    Svg: require().default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+        อธิบายกฎของเกม, บทลงโทษสำหรับการโกง, และวิธีรักษาความปลอดภัยบัญชี
     ),
   },
 ];
