@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'เข้าใจระบบเกม',
-    Svg: require('@site/static/img/screen3.svg').default,
+    Svg: require().default,
     description: (
       <>
         อธิบายวิธีเล่น, ระบบ Battle Pass, วิธีรับรางวัล, และเทคนิคพื้นฐาน
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'แก้ไขปัญหาเบื้องต้น',
-    Svg: require('@site/static/img/screen3.svg').default,
+    Svg: require().default,
     description: (
       <>
         ให้คำแนะนำเกี่ยวกับปัญหาที่พบบ่อย เช่น การซื้อไอเทมไม่เข้า, การกู้คืนบัญชี, หรือการเชื่อมต่อเกม
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'กฎและข้อกำหนด',
-    Svg: require('@site/static/img/screen3.svg').default,
+    Svg: require().default,
     description: (
       <>
         อธิบายกฎของเกม, บทลงโทษสำหรับการโกง, และวิธีรักษาความปลอดภัยบัญชี
