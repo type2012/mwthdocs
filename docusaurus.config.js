@@ -108,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GalacticCore, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://galacticcore.space" target="_blank" rel="noopener noreferrer">GalacticCore Enterprises</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
