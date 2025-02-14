@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'MWTH',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/e2fgWk44UY',
               },
             ],
           },
